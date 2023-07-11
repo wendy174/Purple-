@@ -2,7 +2,7 @@
     "plants": [
       {
         "id": 1,
-        "name": "Aloe",
+        "name": "Alo",
         "image": "./images/aloe.jpg",
         "price": 15.99
       },
