@@ -1,5 +1,5 @@
 {
-    "items": [
+    "kawaii": [
       {
         "id": 1,
         "name": "Kawaii Piggy Squishy Jumbo Plushie",
@@ -8,147 +8,57 @@
       },
       {
         "id": 2,
-        "name": "ZZ Plant",
-        "image": "./images/zz-plant.jpg",
+        "name": "Red Panda Kawaii Plushie Soft Toy",
+        "image": "https://thekawaiishoppu.com/cdn/shop/files/Sfced63382c3941a5a866c9cfc08bfa835_540x.jpg?v=1687785743",
         "price": 25.98
       },
       {
         "id": 3,
-        "name": "Pilea peperomioides",
-        "image": "./images/pilea.jpg",
-        "price": 5.99
+        "name": "Giant Size Whale Soft Toy Plushie",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/H9282872eb83d431abfa1e969980ae27ds_360x.jpg?v=1663673460",
+        "price": 30.00
       },
       {
         "id": 4,
-        "name": "Pothos",
-        "image": "./images/pothos.jpg",
-        "price": 12.11
+        "name": "Fortune Cat Plushie",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/S52be057a116f4ca29dd76ea239413f37A_360x.jpg?v=1687514927",
+        "price": 15.99
       },
       {
         "id": 5,
-        "name": "Jade",
-        "image": "./images/jade.jpg",
+        "name": "Cuddle Kitty Plushie",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/cuddle-kitty-plushie-soft-toy-the-kawaii-shoppu-0_360x.jpg?v=1657926199",
         "price": 10.37
       },
       {
         "id": 6,
-        "name": "Monstera Deliciosa",
-        "image": "./images/monstera.jpg",
+        "name": "My Kawaii Sitting Bunny Plush Toy",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/my-kawaii-sitting-bunny-plush-toy-soft-toy-the-kawaii-shoppu-0_360x.jpg?v=1657952382",
         "price": 25.99
       },
       {
         "id": 7,
-        "name": "Fiddle Leaf Fig",
-        "image": "./images/fiddle-leaf-fig.jpg",
-        "price": 55
+        "name": "Sakura Cat Water Bottle",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/sakura-cat-water-bottle-null-the-kawaii-shoppu-0_360x.jpg?v=1657916159",
+        "price": 23.00
       },
       {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 8
+        "id": 8,
+        "name": "Strawberry Glass Water Jug + Cup",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/kawaii-strawberry-glass-water-jug-cup-cup-the-kawaii-shoppu-0_360x.jpg?v=1657942842",
+        "price": 30.00
       },
       {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 9
+        "id": 9, 
+        "name": "Boba Bear Glass Cup With Straw & Lid",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/300ml-kawaii-boba-bear-glass-cup-with-straw-lid-300ml-bottle-the-kawaii-shoppu-7_360x.jpg?v=1657970671",
+        "price": 15.00
       },
       {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 10
-      },
-      {
-        "name": "Wendy k. Yeung",
-        "image": "https://s3-media0.fl.yelpcdn.com/bphoto/bFP3myW-Y8IX42X2lnJwhg/o.jpg",
-        "price": "0.04",
-        "id": 11
-      },
-      {
-        "name": "Tigger ",
-        "image": "https://pbs.twimg.com/media/C7clrwzVoAABAeX.jpg",
-        "price": "0.1",
-        "id": 12
-      },
-      {
-        "name": "Tigger ",
-        "image": "https://pbs.twimg.com/media/C7clrwzVoAABAeX.jpg",
-        "price": "0.1",
-        "id": 13
-      },
-      {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 14
-      },
-      {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 15
-      },
-      {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 16
-      },
-      {
-        "name": "hi",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 17
-      },
-      {
-        "name": "bye ",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 18
-      },
-      {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.06",
-        "id": 19
-      },
-      {
-        "name": "pig ",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.06",
-        "id": 20
-      },
-      {
-        "name": "pig ",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.06",
-        "id": 21
-      },
-      {
-        "name": "pig ",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.06",
-        "id": 22
-      },
-      {
-        "name": "Wendy k. Yeung",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 23
-      },
-      {
-        "name": "Jasmine",
-        "image": "https://commons.wikimedia.org/wiki/File:A-Cat.jpg",
-        "price": "0.04",
-        "id": 24
-      },
-      {
-        "name": "Wendy k. Yeung",
-        "image": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.6435-9/166675304_3835988369821710_540951438970789589_n.jpg?stp=dst-jpg_p600x600&_nc_cat=111&ccb=1-7&_nc_sid=a26aad&_nc_ohc=J4b-LH6t-z0AX--OfZA&_nc_ht=scontent-bos5-1.xx&oh=00_AfCaO0w6-HEyTKEuVkdx9ZfvkBftUhymSXRRURigfDr6Ww&oe=643AE209",
-        "price": "0.03",
-        "id": 25
+        "id": 10, 
+        "name": "Bear Korean Thermos Flask",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/320ml-kawaii-bear-korean-thermos-flask-320ml-bottle-the-kawaii-shoppu-0_360x.jpg?v=1657922672",
+        "price": 19.00
       }
     ]
   }
