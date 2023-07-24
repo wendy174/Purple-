@@ -1,9 +1,9 @@
 {
-    "plants": [
+    "items": [
       {
         "id": 1,
-        "name": "Aloe",
-        "image": "./images/aloe.jpg",
+        "name": "Kawaii Piggy Squishy Jumbo Plushie",
+        "image": "https://thekawaiishoppu.com/cdn/shop/products/Ha80330f2227a4375a38038dbcc4e6d83x_360x.jpg?v=1677861660",
         "price": 15.99
       },
       {
